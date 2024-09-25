@@ -1,19 +1,5 @@
 
-Amir Erell <amir@factify.com>
-Attachments
-19 Sept 2024, 17:03 (4 days ago)
-to me
 
-Hi Moshe,
-
-How are you?
-
-I'm attaching the assignment below, please feel free to contact me over any issues.
-We don't have a strict time limit, but please let me know when you start working on this since it will be taken into account.
-
-Good luck!
-
----------
 
 Your task is as follows - 
 
