@@ -1,0 +1,26 @@
+@import "../node_modules/react-resizable/css/styles.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .button {
+    @apply px-4;
+  }
+  .button-default {
+    @apply bg-gray-100 px-3 pt-1 pb-1 hover:bg-gray-200 ;
+  }
+
+  .button-active {
+    @apply bg-blue-500;
+  }
+}
+
+.border-b-0 {
+  border-bottom: 1px solid #ddd;
+}
+
+body {
+  background-color: #eee;
+}
